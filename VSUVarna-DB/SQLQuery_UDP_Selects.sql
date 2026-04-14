@@ -1,6 +1,6 @@
 EXEC udp_GetStudentByFacultyNumber  'IGWPBGP360'
 
-EXEC udp_GetStudentByName 'Иван', 'Мирославов', 'Димитров'
+EXEC udp_GetStudentByName 'Г€ГўГ Г­', 'ГЊГЁГ°Г®Г±Г«Г ГўГ®Гў', 'Г„ГЁГ¬ГЁГІГ°Г®Гў'
 
 EXEC udp_GetStudentBySubject 1
 
