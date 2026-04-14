@@ -1,6 +1,7 @@
 # SW-Development-Course-project
 
 1. Database for the university system:
+
 a) logical ER diagram
 
 <img width="680" height="461" alt="ER diagram - logical model" src="https://github.com/user-attachments/assets/7c453698-0373-40a8-9a4b-e9a10368822a" />
