@@ -105,5 +105,11 @@ namespace UniSystem
             form.Show();
             this.Close();
         }
+
+        private void FormStudentProfile_Load(object sender, EventArgs e)
+        {
+            toolStripButtonProfile_Click(sender, e);
+        }
+        
     }
 }
