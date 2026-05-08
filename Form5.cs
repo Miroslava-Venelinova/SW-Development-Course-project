@@ -197,8 +197,8 @@ namespace UniSystem
                     GradeValue = decimal.Parse(textBoxGradeValue.Text)
                 };
 
-                // context.Grades.InsertOnSubmit(grade);
-                // context.SubmitChanges();
+                context.Grades.Add(grade);
+                context.SaveChanges();
             }
             MessageBox.Show("Оценката беше вписана успешно!");
         }
