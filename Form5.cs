@@ -202,6 +202,10 @@ namespace UniSystem
             }
             MessageBox.Show("Оценката беше вписана успешно!");
         }
+        private void FormTeacherProfile_Load(object sender, EventArgs e)
+        {
+            toolStripButtonProfile_Click(sender, e);
+        }
     }
 }
 
